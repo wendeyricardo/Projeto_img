@@ -1,0 +1,44 @@
+* {
+	font-family: Arial;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.topo{
+	height: 50px;
+	background-color: #353535;
+}
+
+.topointerior{
+	width: 1000px;
+	margin:auto;
+	color: #FFFFFF;
+}
+.logomarca{
+	float:left;
+	font-size: 24px;
+	line-height: 50px;
+}
+.menu{
+	float: right;
+}
+.menu ul,
+.menu li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.menu li{
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	line-height: 50px;
+	font-size: 14px;
+
+}
+.menu li:hover {
+	background-color: #3484C1;
+}
