@@ -80,3 +80,21 @@ body{
 	cursor:pointer;
 	border-radius: 5px;
 }
+.conteudointerno{
+	width: 1000px;
+	margin: auto;
+}
+.outrosprodutos{
+	height:90px;
+	font-size:20px;
+	text-align:center;
+	line-height:90px;
+}
+.fotos img{
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+
+
+
