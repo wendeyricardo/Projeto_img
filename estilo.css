@@ -42,3 +42,41 @@ body{
 .menu li:hover {
 	background-color: #3484C1;
 }
+.banner{
+	height: 300px;
+	background-color: #347aba;
+
+}
+.bannerinterior{
+	width: 1000px;
+	margin: auto;
+}
+.banneresquerda{
+	float: left;
+}
+.bannerdireita{
+	float: right;
+}
+.bannerdireita img{
+	margin-right: 55px;
+}
+.frase1{
+	font-size: 48px;
+	color:#FFFFFF;
+	margin-top: 60px;
+}
+.frase2{
+	font-size: 20px;
+	color: #FFFFFF;
+}
+.botao{
+	background-color: #FFC001;
+	width: 282px;
+	height: 56px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 56px;
+	margin-top: 20px;
+	cursor:pointer;
+	border-radius: 5px;
+}
